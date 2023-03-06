@@ -2,6 +2,7 @@ import random
 
 
 characters_string = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890~!@#$%^&*()_+=-[]{}'\|<>,./?`"
+# you can add more characters to make it more secure and harder for breach
 characters_list = []
 for s in characters_string:
     characters_list.append(s)
