@@ -1,4 +1,4 @@
-# the-cypher-encryption-and-decryption
+# the-cipher-encryption-and-decryption
 This is a basic easy cool project to do of the cypher encryption and decryption
 
 This is a project that takes for an expert coder around 5-10 minutes
